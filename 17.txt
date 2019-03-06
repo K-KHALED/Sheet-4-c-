@@ -1,0 +1,13 @@
+a.(i) ==> output = Grade is C.
+after if statement ==> score = 70
+
+a.(ii) ==> output = Grade is C.
+after if statement ==> score = 70
+
+
+
+b.(i) ==> output = 
+after if statement ==> score = 80
+
+b.(ii) ==> output = Grade is C.
+after if statement ==> score = 70

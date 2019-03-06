@@ -1,0 +1,23 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+int n,x,c=0;
+cin>>n;
+x=n*2-1;
+for(int i=0;i<n;i++)
+{
+    for(int l=0;l<c;l++)
+    {
+        cout<<" ";
+    }
+    for(int j=x;j>0;j--)
+    {
+        cout<<"X";
+    }
+    cout<<endl;
+    x-=2;
+    c++;
+}
+
+}

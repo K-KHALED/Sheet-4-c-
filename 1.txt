@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+int n1,n2,n3,mx=INT_MIN;
+cin>>n1;
+if(n1>mx){mx=n1;}
+cin>>n2;
+if(n2>mx){mx=n2;}
+cin>>n3;
+if(n3>mx){mx=n3;}
+cout<<mx;
+
+
+}
